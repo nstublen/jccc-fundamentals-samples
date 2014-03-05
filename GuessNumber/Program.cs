@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace GuessNumber
+namespace JCCC.Fundamentals.Samples.GuessNumber
 {
     class Program
     {

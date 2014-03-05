@@ -8,7 +8,7 @@
     <ProjectGuid>{41185480-9275-47F0-BA41-B8875DB34179}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GuessNumber</RootNamespace>
+    <RootNamespace>JCCC.Fundamentals.Samples.GuessNumber</RootNamespace>
     <AssemblyName>GuessNumber</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

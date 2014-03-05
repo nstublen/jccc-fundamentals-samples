@@ -8,7 +8,7 @@
     <ProjectGuid>{0E9F1DE3-89C0-40CC-B6C1-6A624D5E6622}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GuessPattern</RootNamespace>
+    <RootNamespace>JCCC.Fundamentals.Samples.GuessPattern</RootNamespace>
     <AssemblyName>GuessPattern</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

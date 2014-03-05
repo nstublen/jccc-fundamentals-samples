@@ -8,7 +8,7 @@
     <ProjectGuid>{D21E841A-2E4E-464F-B40B-9EDFD14B6B7E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HighScores</RootNamespace>
+    <RootNamespace>JCCC.Fundamentals.Samples.HighScores</RootNamespace>
     <AssemblyName>HighScores</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
