@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CardGame.Deck">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame.Card">
+    <Position X="4" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CardGame.Card.Suit" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Card.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQMAAAhAAAAgEAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
