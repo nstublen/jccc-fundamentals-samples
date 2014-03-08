@@ -116,7 +116,7 @@ namespace CardGame
             // before it.
             for (int deckIndex = mNextAdd - 1; deckIndex > mNextDraw; deckIndex -= 1)
             {
-                int randomIndex = rng.Next(0, deckIndex);
+                int randomIndex = rng.Next(0, deckIndex + 1);
                 swapCards(deckIndex, randomIndex);
             }
         }
