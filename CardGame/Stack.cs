@@ -128,9 +128,12 @@ namespace CardGame
         /// <param name="index2">The second card to swap</param>
         private void swapCards(int index1, int index2)
         {
-            Card temp = mCards[index1];
-            mCards[index1] = mCards[index2];
-            mCards[index2] = temp;
+            if (index1 == index2)
+            {
+                Card temp = mCards[index1];
+                mCards[index1] = mCards[index2];
+                mCards[index2] = temp;
+            }
         }
     }
 }
